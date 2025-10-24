@@ -1,0 +1,12 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"path": "cs_1",
+			"title": "500KG of beef",
+			"game": "Counter Strike",
+			"description": "Max and Killian discuss food shop and meals",
+			"tags": ["funny", "just-chatting"]
+		}
+	]
+}
